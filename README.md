@@ -1,6 +1,6 @@
 <p align = "center">
   <a href="https://github.com/Akhil1819"><img src="https://github.com/Akhil1819/Akhilesh1819/assets/174233529/15333820-f0fc-4ccb-9f61-2626bb7fea3e" width = "350" height = "300" /></a>
-  <h1 align="center"><b>Hello, I'm Akhilesh Singh <img src = "https://github.com/Nikita1918/Nikita1918/assets/174233474/7e68b955-55f2-42af-9bcd-4d643b8c862c" width = "70.0"></b></h1>
+  <h1 align="center"><b>Hello, I'm Akhilesh Singh </b></h1>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://github.com/Akhil1819/Akhilesh1819/assets/174233529/d6bf9a19-079c-4e67-a0d3-f3dfeb06d891" />
+<img align="right" height="170px" alt="GIF" src="https://github.com/Akhil1819/Akhilesh1819/assets/174233529/d6bf9a19-079c-4e67-a0d3-f3dfeb06d891" />
 
  ### I am a Data Analyst 
 •	I am a passionate Data Analyst focused on expanding my expertise in Data Analytics. Currently, I am honing my data visualization skills using Power BI and Excel, alongside enhancing my data manipulation and analysis capabilities with Python and MySQL. My professional journey includes impactful projects such as analyzing road accident data and modelling Amazon shopping patterns.
