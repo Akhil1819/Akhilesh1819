@@ -16,12 +16,9 @@
 <img align="right" height="270px" alt="GIF" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/c711d45f-1d37-4b60-8dc7-69a390345d34" />
 
  ### I am a Data Analyst 
--I am a passionate Data Analyst focused on expanding my expertise in Data Analytics. Currently, I am honing my data visualization skills using Power BI and Excel, alongside enhancing my data manipulation and analysis capabilities with Python and MySQL. My professional journey includes impactful projects such as analyzing road accident data and modelling Amazon shopping patterns.
-<br>
-I have developed comprehensive dashboards for these projects, leveraging Excel for road accident analysis and Power BI for Amazon shopping data. Looking ahead to 2024, my goals are to master advanced data analysis techniques and gain hands-on experience in the industry.
-<br>
-I thrive on meaningful discussions about analytics and insights, always eager to connect with fellow data enthusiasts. 
-
+•	I am a passionate Data Analyst focused on expanding my expertise in Data Analytics. Currently, I am honing my data visualization skills using Power BI and Excel, alongside enhancing my data manipulation and analysis capabilities with Python and MySQL. My professional journey includes impactful projects such as analyzing road accident data and modelling Amazon shopping patterns.
+•	I have developed comprehensive dashboards for these projects, leveraging Excel for road accident analysis and Power BI for Amazon shopping data. Looking ahead to 2024, my goals are to master advanced data analysis techniques and gain hands-on experience in the industry.
+•	I thrive on meaningful discussions about analytics and insights, always eager to connect with fellow data enthusiasts. Feel free to reach out—I'm ready to push the boundaries of data analysis and uncover actionable insights together!
 - 📬 How to reach me: [Feel free to reach out!](http://linkedin.com/in/akhilesh-singh-38bb32316)
 - 🏋️‍♂️ I strive to: Push the boundaries of data analysis and uncover actionable insights.
   
@@ -82,7 +79,7 @@ I thrive on meaningful discussions about analytics and insights, always eager to
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <h4 align="center"> Thank You for visiting my profile :grin: </h4>
-<p align="center"> <a href = "https://drive.google.com/file/d/1kDgwMcA-o5cya5QuPthHaDjMxuCdI1pg/view?usp=drive_link">Download my Resume</p>
+<p align="center"> <a href = "https://drive.google.com/file/d/1_1JOStYwZFdjR2yr_Czg5fq-903t2p0w/view?usp=drive_link">Download my Resume</p>
 
 <br>
 <br>
