@@ -1,6 +1,6 @@
 <p align = "center">
-  <a href="https://github.com/Nikita1918"><img src="https://github.com/Nikita1918/Nikita1918/assets/174233474/8c569081-ba0c-4c11-b247-2ec526e1fd70" width = "600" height = "450" /></a>
-  <h1 align="center"><b>Hello there, I'm Nikita Rawat <img src = "https://github.com/Nikita1918/Nikita1918/assets/174233474/7e68b955-55f2-42af-9bcd-4d643b8c862c" width = "70.0"></b></h1>
+  <a href="https://github.com/Akhil1819"><img src="https://github.com/Akhil1819/Akhilesh1819/assets/174233529/15333820-f0fc-4ccb-9f61-2626bb7fea3e" width = "400" height = "350" /></a>
+  <h1 align="center"><b>Hello, I'm Akhilesh Singh <img src = "https://github.com/Nikita1918/Nikita1918/assets/174233474/7e68b955-55f2-42af-9bcd-4d643b8c862c" width = "70.0"></b></h1>
 </p>
 
 <p align="center">
