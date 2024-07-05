@@ -1,23 +1,25 @@
 <p align = "center">
-  <a href="https://github.com/Akhil1819"><img src="https://github.com/Akhil1819/Akhilesh1819/assets/174233529/15333820-f0fc-4ccb-9f61-2626bb7fea3e" width = "400" height = "350" /></a>
+  <a href="https://github.com/Akhil1819"><img src="https://github.com/Akhil1819/Akhilesh1819/assets/174233529/15333820-f0fc-4ccb-9f61-2626bb7fea3e" width = "350" height = "300" /></a>
   <h1 align="center"><b>Hello, I'm Akhilesh Singh <img src = "https://github.com/Nikita1918/Nikita1918/assets/174233474/7e68b955-55f2-42af-9bcd-4d643b8c862c" width = "70.0"></b></h1>
 </p>
 
 <p align="center">
 <br>
 <a href="http://linkedin.com/in/akhilesh-singh-38bb32316"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:nikitaarawat981@gmail.com?subject=Hola%20Piyush"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://github.com/Nikita1918/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
+<a href="mailto:jstakhileshsingh@gmail.com?subject=Hola%20Piyush"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://github.com/Akhil1819/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
 
 </p>
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://github.com/Nikita1918/Nikita1918/assets/174233474/c711d45f-1d37-4b60-8dc7-69a390345d34" />
+<img align="right" height="270px" alt="GIF" src="https://github.com/Akhil1819/Akhilesh1819/assets/174233529/d6bf9a19-079c-4e67-a0d3-f3dfeb06d891" />
 
  ### I am a Data Analyst 
 •	I am a passionate Data Analyst focused on expanding my expertise in Data Analytics. Currently, I am honing my data visualization skills using Power BI and Excel, alongside enhancing my data manipulation and analysis capabilities with Python and MySQL. My professional journey includes impactful projects such as analyzing road accident data and modelling Amazon shopping patterns.
+<br>
 •	I have developed comprehensive dashboards for these projects, leveraging Excel for road accident analysis and Power BI for Amazon shopping data. Looking ahead to 2024, my goals are to master advanced data analysis techniques and gain hands-on experience in the industry.
+<br>
 •	I thrive on meaningful discussions about analytics and insights, always eager to connect with fellow data enthusiasts. Feel free to reach out—I'm ready to push the boundaries of data analysis and uncover actionable insights together!
 - 📬 How to reach me: [Feel free to reach out!](http://linkedin.com/in/akhilesh-singh-38bb32316)
 - 🏋️‍♂️ I strive to: Push the boundaries of data analysis and uncover actionable insights.
