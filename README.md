@@ -17,12 +17,14 @@
 
  ### I am a Data Analyst 
 -I am a passionate Data Analyst focused on expanding my expertise in Data Analytics. Currently, I am honing my data visualization skills using Power BI and Excel, alongside enhancing my data manipulation and analysis capabilities with Python and MySQL. My professional journey includes impactful projects such as analyzing road accident data and modelling Amazon shopping patterns.
+<br>
 I have developed comprehensive dashboards for these projects, leveraging Excel for road accident analysis and Power BI for Amazon shopping data. Looking ahead to 2024, my goals are to master advanced data analysis techniques and gain hands-on experience in the industry.
-I thrive on meaningful discussions about analytics and insights, always eager to connect with fellow data enthusiasts. Feel free to reach out—I'm ready to push the boundaries of data analysis and uncover actionable insights together!
+<br>
+I thrive on meaningful discussions about analytics and insights, always eager to connect with fellow data enthusiasts. 
 
-- 📬 How to reach me: [Let's get in touch!](linkedin.com/in/akhilesh-singh-38bb32316)
+- 📬 How to reach me: [Feel free to reach out!](http://linkedin.com/in/akhilesh-singh-38bb32316)
 - 🏋️‍♂️ I strive to: Push the boundaries of data analysis and uncover actionable insights.
-- 💡 Fun fact: I love connecting with data enthusiasts and learning from diverse perspectives :raised_hands:
+  
 <br align>
 
 ### Languages and Tools known: 
